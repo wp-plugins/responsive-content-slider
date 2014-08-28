@@ -15,7 +15,10 @@
 
 Carousel slider to slide your wordpress post or any posttype. easy to use via shortcode anywhere 
 
+### Woocommerce Products Slider by http://paratheme.com
 
+* [See the Live demo!&raquo;](http://paratheme.com/items/responsive-content-slider-slide-any-posttype-or-taxonomy/)
+* [Upgrade to Premium!&raquo;](http://paratheme.com/items/responsive-content-slider-slide-any-posttype-or-taxonomy/)
 
 <strong>Plugin Features</strong><br />
 
@@ -59,6 +62,9 @@ then paste this shortcode anywhere in your page to display slider<br />
 
 
 == Screenshots ==
+1. screenshot-1 Theme one
+2. screenshot-2 Theme two
+3. screenshot-3 Theme Three
 
 
 
