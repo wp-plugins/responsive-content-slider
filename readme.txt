@@ -3,7 +3,7 @@
 	Donate link: http://paratheme.com
 	Tags: carousel, slider, Content Slider, Responsive Slider, Responsive carousel Slider, content post slider, jquery slider, post content slider, post slider, slider post, slider, Horizontal content slider,  carousel slider, Horizontal Slider, posts slider
 	Requires at least: 3.8
-	Tested up to: 4.0
+	Tested up to: 4.2.4
 	Stable tag: 1.0
 	License: GPLv2 or later
 	License URI: http://www.gnu.org/licenses/gpl-2.0.html
